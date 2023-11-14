@@ -1,7 +1,8 @@
-cd C:\Users\Xeon_Fox\Documents\GitHub\DZDZDZDZDZDZ\11.11.23previousdz
+cd ../11.09.23dz
 ls
-start previousdz.txt
-cd C:\Users\Xeon_Fox\Documents\GitHub\DZDZDZDZDZDZ\11.11.23
-echo "" > runnercopy.ps1
+python .\week1.py
+python .\week2.py
+cd ..
+cd 11.11.23
 cp runner.ps1 runnercopy.ps1
 ls
