@@ -1,0 +1,7 @@
+print("Пн", end=", ")
+print("Вт", end=", ")
+print("Ср", end=", ")
+print("Чт", end=", ")
+print("Пт", end=", ")
+print("Сб", end=", ")
+print("Вс.")
