@@ -8,10 +8,10 @@ delit=firstnumberepicbattlecalculator/secondnumberepicbattlecalculator
 print(pluspppp," ",minsuyas," ",umnozit," ", delit)
 
 #2
-KilometersVvednniChelovekom=float(input("не позволите ли вы вписать километы "))
-NatoAmericanMileIhateamerica=float
-NatoAmericanMileIhateamerica=0.62
-kmmileburgeramericailoveamerica=KilometersVvednniChelovekom*NatoAmericanMileIhateamerica
+kilometersVvednniChelovekom=float(input("не позволите ли вы вписать километы "))
+natoAmericanMileIhateamerica=float
+natoAmericanMileIhateamerica=0.62
+kmmileburgeramericailoveamerica=kilometersVvednniChelovekom*natoAmericanMileIhateamerica
 print(kmmileburgeramericailoveamerica)
 
 #1
