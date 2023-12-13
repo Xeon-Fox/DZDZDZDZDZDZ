@@ -13,3 +13,5 @@ number_length = len(number)
 if skoka_sdvinut > number_length:
     skoka_sdvinut = skoka_sdvinut % number_length
 #дальше не придумал русская смекалочка подвела
+
+#VN: а дальше можно циклом начать перебирать цифры number от позиции skoka_sdvinut и из них формировать новое число
