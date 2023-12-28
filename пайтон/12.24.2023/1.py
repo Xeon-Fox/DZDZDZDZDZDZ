@@ -1,5 +1,6 @@
 try:
     fd = open("output.txt", encoding='utf8')
+    #VN: странно ^^^^^^^^^ что входной файл называется output
 except FileNotFoundError:
     print("нет")
     exit()
@@ -24,3 +25,5 @@ splitedtext_text_for_search_final=splitedtext_text_for_search[0]
 print("    ", splitedtext_text_for_search_final)
 
 print('    ',splitedtext_text_for_search[1])
+
+#VN: Добавил в url ещё один параметр: '&foo=bar'. Ваша программа не смогла его обнаружить
