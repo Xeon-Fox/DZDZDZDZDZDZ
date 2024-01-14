@@ -23,6 +23,7 @@ def display_time(hours=0, minutes=0, seconds=0):
     if seconds == 0:
         seconds == "00"
     
+    #VN: если шаблон сделать "02d:02d:02d", то все эти манипуляции с 9 по 24 строки не нужны
     template = '%s:%s:%s'
     measege = template % (hours, minutes, seconds)
     return measege
