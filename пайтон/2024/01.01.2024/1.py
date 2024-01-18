@@ -80,6 +80,3 @@ print(total_salary)
 print(min_salary)
 print(max_salary)
 print(avg_salary)
-
-# median_salary = 
-# print(median_salary)
